@@ -17,9 +17,6 @@ Im currently working on a couple of projects with react JavaSript<br>I would lik
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zobomber&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=zobomber&icon=2&color=3)](https://visitcount.itsvg.in)
 
