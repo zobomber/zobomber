@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on a couple of projects with react JavaSript<br>I would like to know more about how server works<br>Im looking for help with AI developming<br>Still learning<br>I love plants vs zombies and participated in different Fortnite competitions
+Im currently working on a couple of projects with react JavaSript<br>I would like to know more about how server works<br>Im looking for help with AI developming<br>
 
 
 ## 🌐 Socials:
