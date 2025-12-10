@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on a couple of projects with react JavaSript<br>I would like to know more about how server works<br>Im looking for help with AI developming<br>
+Full-stack developer
 
 
 ## 🌐 Socials:
